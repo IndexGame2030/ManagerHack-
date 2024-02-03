@@ -1,1 +1,2 @@
-gg.alert("Script")
+gg.toast("Gggg")
+gg.sleep(2000)
